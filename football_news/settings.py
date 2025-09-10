@@ -32,7 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "nisrina-fatimah-footballnews.pbp.cs.ui.ac.id"]
 CSRF_TRUSTED_ORIGINS = [
-    "<https://nisrina-fatimah-footballnews.pbp.cs.ui.ac.id>"
+    "https://nisrina-fatimah-footballnews.pbp.cs.ui.ac.id"
 ]
 
 
